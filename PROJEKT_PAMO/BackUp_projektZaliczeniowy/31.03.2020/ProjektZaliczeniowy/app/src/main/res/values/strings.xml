@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">BillsReminderApp</string>
+    
+    <string name="action_settings">Settings</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="PLN">PLN</string>
+    <string name="Kwota">Kwota</string>
+    <string name="Wybierzkategorie">Wybierz kategorie</string>
+    <string name="Uwagi">Uwagi</string>
+    <string name="data_platnosci">Data płatności</string>
+    <string name="odbiorca_tabela">Odbiorca</string>
+    <string name="zblizajace_faktury">ZBLIŻAJĄCE SIĘ FAKTURY</string>
+    <string name="zalegle_faktury">FAKTURY ZALEGŁE</string>
+
+    <string-array name="Kategorie">
+
+        <item>Alimenty</item>
+        <item>Darowizny</item>
+        <item>Dochód</item>
+        <item>Gospodarstwo domowe</item>
+        <item>Inwestycje</item>
+        <item>Jedzenie</item>
+        <item>Mieszkanie</item>
+        <item>Opieka medyczna</item>
+        <item>Podatki</item>
+        <item>Prezenty</item>
+        <item>Rozrywka</item>
+        <item>Sport i rekreacja</item>
+        <item>Transport</item>
+        <item>Zakupy</item>
+        <item>Inne</item>
+
+    </string-array>
+
+    <string name="Odbiorca">Odbiorca/Pozycja</string>
+
+
+    <string-array name="coile">
+        <item>Nie wysyłaj powiadomień</item>
+        <item>1 Dzień przed terminem płatności</item>
+        <item>2 Dni przed terminem płatności</item>
+        <item>3 Dni przed terminem płatności</item>
+        <item>4 Dni przed terminem płatności</item>
+        <item>5 Dni przed terminem płatności</item>
+        <item>6 Dni przed terminem płatności</item>
+        <item>7 Dni przed terminem płatności</item>
+        <item>8 Dni przed terminem płatności</item>
+        <item>9 Dni przed terminem płatności</item>
+        <item>10 Dni przed terminem płatności</item>
+        <item>11 Dni przed terminem płatności</item>
+        <item>12 Dni przed terminem płatności</item>
+        <item>13 Dni przed terminem płatności</item>
+        <item>14 Dni przed terminem płatności</item>
+    </string-array>
+
+    <string name="termin">TERMIN PŁATNOŚCI:</string>
+    <string name="data">01-01-2019</string>
+    <string name="anuluj">ANULUJ</string>
+    <string name="akceptuj">AKCEPTUJ</string>
+    <string name="powiadomienie">WYSYŁAJ CODZIENNIE POWIADOMIENIA</string>
+
+    <string-array name="powtarza">
+        <item>DZIEŃ</item>
+        <item>TYDZIEŃ</item>
+        <item>MIESIĄC</item>
+        <item>ROK</item>
+    </string-array>
+
+    <string name="niepowtarzasie">NIE POWTARZA SIĘ</string>
+    <string name="powtarzasie">POWTARZA SIĘ</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="przychod">PRZYCHÓD</string>
+    <string name="do_zaplaty">DO ZAPŁATY</string>
+
+	<string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="odbiorca_wiersz">Odbiorca</string>
+    <string name="togglebutton">ToggleButton</string>
+
+
+</resources>
