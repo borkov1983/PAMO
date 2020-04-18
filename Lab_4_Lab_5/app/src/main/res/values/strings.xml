@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI_app</string>
+	<string name="title_home">Home</string>
+    <string name="title_bmi">BMI</string>
+    <string name="title_kcal">K-cal</string>
+    <string name="title_menu">Menu</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hint_wzrost"><font size="15">podaj swoj wzrost [cm]</font></string>
+    <string name="hint_wiek"><font size="15">podaj swoj wiek</font></string>
+    <string name="hint_waga"><font size="15">podaj swoja wage [kg]</font></string>
+    <string name="calculate_bmi"><font size="15">Oblicz BMI</font></string>
+    <string name="bmiNull">Najpierw Oblicz BMI</string>
+    <string name="wyglodzenie">Jedz Duzo, Czesto, Tlusto i pij Piwo</string>
+    <string name="wychudzenie">Golonka i trzy piecdziesiatki</string>
+    <string name="niedowaga">Jedz co chcesz</string>
+    <string name="prawidlowa">Jedz wszystko, ale z umiarem</string>
+    <string name="nadwaga">Pizza, potem 3h spaceru </string>
+    <string name="otyloscjeden">Na jedzenie mozesz jedynie popatrzec</string>
+    <string name="otyloscdwa">Dwie kromki chleba z maslem</string>
+    <string name="otylosctrzy">Jedna koniczyna na caly dzien</string>
+    <string name="gotochart">Wykres</string>
+    <string name="gotoquiz">Quiz</string>
+    <string name="warningBMI">Najpierw Oblicz BMI</string>
+    <string name="image_description">Image of the questions in the quiz</string>
+
+
+    <string name="title_activity_settings">Settings</string>
+    <string name="bmi_application">BMI_APPLICATION</string>
+    <string name="your_score">Your Score</string>
+    <string name="powrot">Powrót</string>
+</resources>
