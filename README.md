@@ -1,2 +1,2 @@
 # PAMO
-Project BMI PAMO s15805
+Repository containing a projects done during the Mobile Application Design classes. 
